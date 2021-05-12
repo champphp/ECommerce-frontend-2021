@@ -1,0 +1,11 @@
+.rating .fa {
+  color: #ff523b;
+}
+
+.col-4 {
+  transition: transform 0.5s;
+}
+
+.col-4:hover {
+  transform: translateY(-5px);
+}

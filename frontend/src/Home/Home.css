@@ -1,0 +1,13 @@
+a.btn {
+  padding: 8px 30px;
+  margin: 30px 0;
+  border-radius: 30px;
+}
+
+.header {
+  background: radial-gradient(#fff,#ffd6d6);
+}
+
+.header .row {
+  margin-top: 70px;
+}
