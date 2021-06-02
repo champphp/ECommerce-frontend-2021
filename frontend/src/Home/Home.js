@@ -5,6 +5,10 @@ import './Home.css'
 import Header from './../Header/Header'
 import Categories from './Categories/Categories'
 import FeaturedProducts from './FeaturedProducts/FeaturedProducts'
+import Offer from './Offer/Offer'
+import Testimonial from './Testimonial/Testimonial'
+import Brands from './Brands/Brands'
+import Footer from './../Footer/Footer'
 
 function Home() {
   return (
@@ -31,6 +35,10 @@ function Home() {
       </div>
       <Categories />
       <FeaturedProducts />
+      <Offer />
+      <Testimonial />
+      <Brands />
+      <Footer />
     </React.Fragment>
   )
 }
